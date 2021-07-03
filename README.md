@@ -1,1 +1,1 @@
-# Hardware-Trojan-Detection-using-machinelearnig
+# Hardware-Trojan-Detection-using-machine learning
